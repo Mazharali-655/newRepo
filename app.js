@@ -18,7 +18,7 @@
      //Illegal 
      // let last name //spases
      // let my#name
-
+     // reseved words can't use
      //alert(firstName);
 
 
@@ -36,5 +36,22 @@
     // let last Name = "Ali";   // not working
     // alert ($lastName);
     
-    // let _firstName = "Mazhar";   // its workin not use this type.
+    // let first#name = "Mazhar";   //only two charatrs allowed(_ $)other special charaters can't use .
     // alert (_firstName);    
+
+
+    //Data Types
+
+    // 1. String
+    // let firstName = 'Mazhar';
+    // example = "ali", "An apple", "8" "email@.com"
+    // Any letter, word or sentence is string in javaScript
+    // and any thing in b/t "" quote.
+
+    // 2. Number 
+    // let myLuckyNumber = 8;
+    // Example = 4, 37, 0, -34, 4.765
+
+    // 3. Boolean 
+    // let isTodayMonday = true;
+    // Example = ture & false;
